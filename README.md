@@ -1,6 +1,13 @@
-### Hi there 👋
+### 小川 雅貴 Masataka OGAWA
+
+A PhD student of pyscholinguistics, experimental pragmatic syntax, dialectology, corpus linguistics ---in one expression, Human Natural Language Processing.
+
+#### ⚡ Fun fact
+
+My Spanish *apodo*, 'Rafael',  was given by an Afro-Venezuelan percussionist & *luthier* [Willy Mayo Martinez](https://www.youtube.com/channel/UCv75kzQTqItWFkd8P2A3Hzw).
 
 <!--
+### Hi there 👋
 **CLRafaelR/CLRafaelR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
