@@ -1,6 +1,6 @@
 ### 小川 雅貴 Masataka OGAWA
 
-A PhD student of pyscholinguistics, experimental pragmatic syntax, dialectology, corpus linguistics ---in one expression, Human Natural Language Processing.
+A PhD student of pyscholinguistics, experimental functional/pragmatic syntax, dialectology, corpus linguistics ---in one expression, Human Natural Language Processing.
 
 #### ⚡ Fun fact
 
