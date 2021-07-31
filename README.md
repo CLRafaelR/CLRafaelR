@@ -1,10 +1,14 @@
-### 小川 雅貴 Masataka OGAWA
+# 小川 雅貴 Masataka OGAWA
 
 A PhD student of pyscholinguistics, experimental functional/pragmatic syntax, dialectology, corpus linguistics ---in one expression, Human Natural Language Processing.
 
-#### ⚡ Fun fact
+# ⚡ Fun fact
 
 My Spanish *apodo*, 'Rafael',  was given by an Afro-Venezuelan percussionist & *luthier* [Willy Mayo Martinez](https://www.youtube.com/channel/UCv75kzQTqItWFkd8P2A3Hzw).
+
+# Status history
+
+- --20210731 あるのは題名「0KB」
 
 <!--
 ### Hi there 👋
